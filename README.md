@@ -1,6 +1,6 @@
 # Procesamiento del Lenguaje Natural – Trabajos Prácticos
 
-Este repositorio contiene los cuatro trabajos prácticos realizados en el marco de la materia **Procesamiento del Lenguaje Natural**, dictada por el Dr. Rodrigo Cárdenas Szigety y el Dr. Nicolás Vattuone.
+Este repositorio contiene los cuatro trabajos prácticos realizados en el marco de la materia **Procesamiento del Lenguaje Natural**, dictada por el Dr. Rodrigo Cárdenas Szigety y el Dr. Nicolás Vattuone en la carrera de Especializacion en Inteligencia Artificial de la Universidad de Buenos Aires.
 
 Cada notebook aborda un problema distinto del procesamiento de texto, aplicando técnicas modernas de PLN, modelos clásicos y redes neuronales, combinando teoría y práctica sobre diversos datasets.
 
@@ -66,7 +66,7 @@ Cada notebook aborda un problema distinto del procesamiento de texto, aplicando 
 - Tokenización de secuencias para entrada y salida.
 - Definición del vocabulario y padding de secuencias.
 - Preparación del dataset para un modelo Seq2Seq.
-- Uso de **embeddings** preentrenados (GloVe/FastText compatible).
+- Uso de **embeddings** preentrenados (FastText).
 - Generación de respuestas automáticas con red neuronal recurrente `LSTM`.
 
 ---
